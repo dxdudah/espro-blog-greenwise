@@ -44,14 +44,6 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch (git push origin feature/AmazingFeature)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está aberto para uso e modificação.
-
 ## 👤 Autor
 
 dxdudah
-
-## 📧 Contato
-
-Para dúvidas ou sugestões, abra uma issue neste repositório.
