@@ -47,3 +47,4 @@ Contribuições são bem-vindas! Para contribuir:
 ## 👤 Autor
 
 dxdudah
+Lara Ferreira 
